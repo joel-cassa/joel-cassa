@@ -1,6 +1,6 @@
 # Olá, sou Joel Cassa! 👋
 
-Sou estudante de graduação em Física na UFES, campus de Alegre, apaixonado por desvendar os mistérios do universo e resolver problemas complexos com dados e programação.
+Sou estudante de graduação em Física na UFES, campus de Alegre.
 
 Este perfil é meu portfólio de projetos, explorando a intersecção entre Física, Matemática, e Ciência de Dados (EDA, Machine Learning, Deep Learning). Aqui você encontrará:
 
